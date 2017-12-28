@@ -7,6 +7,7 @@ collects all the client interviews
 
 - CHAPTER 3 Customer discovery of [**The Four Steps to
 the Epiphany**](http://web.stanford.edu/group/e145/cgi-bin/winter/drupal/upload/handouts/Four_Steps.pdf) by Steve Blank :gb:
+- [Interviewing Users: How to Uncover Compelling Insights](https://www.amazon.com/Interviewing-Users-Uncover-Compelling-Insights/dp/193382011X) :gb:
 
 **Articles** :newspaper:
 
